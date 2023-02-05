@@ -1,7 +1,7 @@
 # RadioPanel
 Hardware / Software Radio Panel for Flight Simulation
 
-Starting up with Raspberry Pico [W], Micropython or C/C++
+* Starting up with Raspberry Pico [W], Micropython or C/C++:
 
 https://learn.pimoroni.com/article/getting-started-with-pico
 
@@ -10,6 +10,8 @@ FYI: "If you have a Raspberry Pi Pico W, you'll need to initialise the LED sligh
 https://www.youtube.com/watch?v=5l3W-brnO7E
 
 https://youtu.be/K0LNCunQZUw
+
+* Work in progress:
 
 ![image](https://user-images.githubusercontent.com/69823432/216832567-97669250-eff2-4193-9b6c-9eaf749dbc31.png)
 
