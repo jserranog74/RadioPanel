@@ -9,3 +9,7 @@ FYI: "If you have a Raspberry Pi Pico W, you'll need to initialise the LED sligh
 https://www.youtube.com/watch?v=5l3W-brnO7E
 
 https://youtu.be/K0LNCunQZUw
+
+![image](https://user-images.githubusercontent.com/69823432/216832567-97669250-eff2-4193-9b6c-9eaf749dbc31.png)
+
+![image](https://user-images.githubusercontent.com/69823432/216832738-495a19f0-c244-4e3f-ae5f-74d663e1e25a.png)
