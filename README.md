@@ -1,5 +1,7 @@
 # RadioPanel
+
 Hardware / Software Radio Panel for Flight Simulation
+The objective of this project is to save and project the knowledge for the construction of a tuner module for FS2020. The idea is to build the panel with several frequency channels, a selector such as NAV1, NAV2, COM1, COM2, etc., and XPDR
 
 * Starting up with Raspberry Pico [W], Micropython or C/C++:
 
