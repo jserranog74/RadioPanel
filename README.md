@@ -11,6 +11,10 @@ https://www.youtube.com/watch?v=5l3W-brnO7E
 
 https://youtu.be/K0LNCunQZUw
 
+* Documentation:
+
+https://datasheets.raspberrypi.com/picow/pico-w-datasheet.pdf
+
 * Work in progress:
 
 ![image](https://user-images.githubusercontent.com/69823432/216832567-97669250-eff2-4193-9b6c-9eaf749dbc31.png)
