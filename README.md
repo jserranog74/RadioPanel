@@ -1,7 +1,12 @@
 # RadioPanel
 
 Hardware / Software Radio Panel for Flight Simulation
-The objective of this project is to save the progress for the construction of a radio module for FS2020 and for whoever is interested. The idea is to build the panel with several frequency channels, a selector such as NAV1, NAV2, COM1, COM2, ..., and XPDR.
+This project was created to save my progress about the construction of a radio module for Microsoft Flight Simulator 2020 and anyone interested is welcome. 
+The radio module should have one/two pair of frequency channels, the swap button and a selector such as NAV1, NAV2, COM1, COM2, ..., and XPDR.
+
+Similar to Saitek Radio Panel:
+![image](https://user-images.githubusercontent.com/69823432/217115577-0242d6c0-e72d-4924-8ed6-9a1e6c0883b8.png)
+
 
 * Starting up with Raspberry Pico [W], Micropython or C/C++:
 
