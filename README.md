@@ -10,6 +10,11 @@ Similar to Saitek Radio Panel:
 
 * Starting up with Raspberry Pico [W], Micropython or C/C++:
 
+![image](https://user-images.githubusercontent.com/69823432/217314903-9f5fdfa1-0c98-4782-a3bd-9f0723fa4536.png)
+
+https://www.raspberrypi.com/documentation/microcontrollers/raspberry-pi-pico.html
+
+
 https://learn.pimoroni.com/article/getting-started-with-pico
 
 https://www.youtube.com/watch?v=5l3W-brnO7E
