@@ -12,7 +12,11 @@ Similar to Saitek Radio Panel:
 
 ![image](https://user-images.githubusercontent.com/69823432/217314903-9f5fdfa1-0c98-4782-a3bd-9f0723fa4536.png)
 
+Raspberry Pico W specs:
 https://www.raspberrypi.com/documentation/microcontrollers/raspberry-pi-pico.html
+
+C/C++ SDK:
+https://raspberrypi.github.io/pico-sdk-doxygen/modules.html
 
 
 https://learn.pimoroni.com/article/getting-started-with-pico
