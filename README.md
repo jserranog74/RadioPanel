@@ -16,6 +16,7 @@ Raspberry Pico W specs:
 https://www.raspberrypi.com/documentation/microcontrollers/raspberry-pi-pico.html
 
 EC11 Rotary Encoder
+
 ![image](https://user-images.githubusercontent.com/69823432/221762778-08de983b-b1ae-419e-bff0-e21c4793579f.png)
 
 
